@@ -1,1 +1,1 @@
-# CODSOFT
+# AI and image processing project
